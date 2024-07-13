@@ -1,0 +1,88 @@
+[12-Jul-2024 15:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:121
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 121
+[12-Jul-2024 15:43:58 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:121
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 121
+[12-Jul-2024 16:34:30 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:132
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 132
+[12-Jul-2024 16:35:24 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:133
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 133
+[12-Jul-2024 17:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:174
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 174
+[12-Jul-2024 17:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:174
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 174
+[12-Jul-2024 17:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:174
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 174
+[12-Jul-2024 17:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:189
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 189
+[12-Jul-2024 17:28:04 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:189
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 189
+[12-Jul-2024 17:28:54 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:189
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 189
+[12-Jul-2024 17:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to private method Book_Manager_Frontend::display_books() from global scope in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php:189
+Stack trace:
+#0 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(324): filter_books_callback()
+#1 F:\wordpress-6.5.5\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#2 F:\wordpress-6.5.5\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action()
+#3 F:\wordpress-6.5.5\wordpress\wp-admin\admin-ajax.php(192): do_action()
+#4 {main}
+  thrown in F:\wordpress-6.5.5\wordpress\wp-content\plugins\book-manager\includes\class-book-manager-frontend.php on line 189

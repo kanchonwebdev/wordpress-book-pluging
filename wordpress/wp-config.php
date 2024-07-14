@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wp_project_viva' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '#49kanchon#' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
